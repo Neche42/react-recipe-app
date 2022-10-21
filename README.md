@@ -1,2 +1,2 @@
-# react-recipe-app
-This is a simple Recipe App built with React
+# simpleRecipeApp
+This is a simple Recipe App built with React!
